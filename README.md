@@ -1,4 +1,4 @@
-ASIA AMERICA LATINA
+# ASIA AMERICA LATINA
 
 Quiénes somos?
 ---------------------------
@@ -7,7 +7,11 @@ Asia/AméricaLatina es una publicación académica semestral de carácter cient�
 Template
 ---------------------------
 Template Name: Mentor
+
 Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+
 Author: BootstrapMade.com
+
 License: https://bootstrapmade.com/license/
+
 Tuneada por CRISTIAN PAEZ
